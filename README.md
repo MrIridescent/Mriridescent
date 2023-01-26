@@ -1,18 +1,13 @@
 <div id="top"></div>
 
-<br />
 <div align="">
   <div align="right">
 
-    <br />
   </div>
   
 <!--   <h3 align="">Hello World</h3>
   <p align="center">
     It's Mr Iridescent!
-    <br />
-  
-    <br />
   </p> -->
   
   
