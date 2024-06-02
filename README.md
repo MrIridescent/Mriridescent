@@ -12,10 +12,10 @@
   
   
   ```javascript
-  import { Profile } from "github";
+  import { Profile } from "GitHub";
   Profile.set({
-    name:"Mr Iridescent",
-    Passion: Computers
+    name: "David Akpoviroro Oke (Mr. Iridescent)",
+    Passion: Computers and IT Solutions (X.A.A.S)
     occupation:"Programmer + Digital Creator + CyberSecurity Professional"
   });
   ```
@@ -45,12 +45,13 @@
 <!-- ABOUT ME -->
 ## About Me
 
-I'm a tech lover, researcher/developer of solutions and programmer, Started coding since 2005. I love to learn the new & try it out. :smile:
-Basically I'm a full stack web developer. Besides, I'm a Linux enthusiast started from Backtrack 5 - Kali Linux till date and I also love working with various Python Libraries and Javascript Libraries. 
+I'm a tech lover, researcher/developer of solutions, and programmer. I started coding in 2004. I love to learn new stuff & try them out. :smile:
 
-I'm seriously learning app development, kotlin, swift, react , react-native etc. 
+I'm a full-stack web developer. Besides, I'm a Linux enthusiast who started from Backtrack 5 - Kali Linux and love working with various Python Libraries and Javascript Libraries. 
 
-My dream is to build a Solid career in IT sector. 
+I'm seriously learning app development, kotlin, swift, react, react-native, etc. 
+
+My dream is to build a solid Professional career in the IT sector. 
 
 
 ### Skills
@@ -117,6 +118,8 @@ My dream is to build a Solid career in IT sector.
 - [x] MERN Stack
 - [x] MEAN Stack
 - [x] DevOps
+- [x] Ethical Hacking (Verified)
+- [x] End-Point Security (Verified)
 - [ ] Cisco DevNet
     - [x] React Native
 - [ ] Native app development
@@ -124,7 +127,7 @@ My dream is to build a Solid career in IT sector.
     - [ ] Swift
 - [ ] Data Structures and Algorithm
 - [ ] Learn more about microcontroller programming
-- [ ] Learn more about artifical intelligence
+- [ ] Learn more about artificial intelligence
 
 
 
@@ -139,4 +142,4 @@ Feel free to contact me.
 
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/iammriridescent)&nbsp;
-[![Instagram](https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mriridescent)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mriridescent)&nbsp;
