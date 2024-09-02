@@ -51,7 +51,7 @@ I'm a full-stack web developer. Besides, I'm a Linux enthusiast who started from
 
 I'm seriously learning app development, kotlin, swift, react, react-native, etc. 
 
-My dream is to build a solid Professional career in the IT sector. 
+My Goal is to build a solid Professional career in the IT sector. 
 
 
 ### Skills
