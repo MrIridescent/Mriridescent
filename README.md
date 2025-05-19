@@ -109,7 +109,7 @@ My Goal is to build a solid Professional career in the IT sector.
 
 ## Roadmap
 
-- [x] Cisco CyberOps Associate(Verified)
+- [x] Cisco CyberOps Associate(Cisco Verified)
 - [x] Graphic Designs
 - [x] Essential Web development
 - [x] UI / UX
@@ -118,14 +118,20 @@ My Goal is to build a solid Professional career in the IT sector.
 - [x] MERN Stack
 - [x] MEAN Stack
 - [x] DevOps
-- [x] Ethical Hacking (Verified)
-- [x] End-Point Security (Verified)
+- [x] Java Programming, Swing/JavaFx e.t.c
+- [x] Python Programming
+- [x] Ethical Hacking (Cisco Verified)
+- [x] End-Point Security (Cisco Verified)
+- [x] Cyber Threat Management (CTM) (Cisco Verified)
 - [ ] Cisco DevNet
-    - [x] React Native
+- [x] React Native
+- [x] React / Next.JS / Typescript
 - [ ] Native app development
     - [ ] Kotlin
     - [ ] Swift
-- [ ] Data Structures and Algorithm
+    - [ ] Flutter
+- [x] Data Structures and Algorithm
+- [x] Web Application Security
 - [ ] Learn more about microcontroller programming
 - [ ] Learn more about artificial intelligence
 
