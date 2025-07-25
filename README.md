@@ -24,7 +24,7 @@
 
 <div align="center">
 
-![Profile Banner](https://via.placeholder.com/1200x300/1a1a2e/ffffff?text=Digital+Polymat+%7C+Founder+%7C+Full+Stack+Engineer)
+![Profile Banner](/header.jpg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mriridescent--digitalpolymat.netlify.app-blue?style=for-the-badge&logo=netlify)](https://mriridescent-digitalpolymat.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mriridescent-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mriridescent)
