@@ -12,11 +12,28 @@
 
 
   ```javascript
-  import { Profile } from "GitHub";
-  Profile.set({
+  import { DigitalPolymat } from "AI-Enhanced-Portfolio";
+
+  const profile = new DigitalPolymat({
     name: "David Akpoviroro Oke (Mr. Iridescent)",
-    Passion: "Computers and IT Solutions (X.A.A.S)",
-    occupation: "Digital Polymat + Programmer + CyberSecurity Professional + Futurist"
+    specialization: "AI-Powered Digital Architecture + Cybersecurity + Full-Stack Engineering",
+    expertise: [
+      "🤖 AI & Agentic Systems (LangChain, OpenAI, Anthropic)",
+      "🛡️ Cisco Cyber Threat Management & DevSecOps",
+      "⚡ Next.js 15 + Advanced Animation Systems",
+      "🎨 Three.js + Kinetic Motion Frameworks",
+      "🔒 Enterprise Security & Content Protection",
+      "📊 Real-time Analytics & Performance Optimization"
+    ],
+    philosophy: "Intersection-driven innovation at the convergence of technology, creativity, and security",
+    currentFocus: "Building intelligent, secure, and spectacular digital experiences"
+  });
+
+  profile.deploy({
+    platform: "Next.js 15 + AI",
+    features: ["Autonomous Morphing", "Neural Particles", "Conversational AI"],
+    security: "Multi-level Protection",
+    performance: "95+ Lighthouse Score"
   });
   ```
 
@@ -24,11 +41,16 @@
 
 <div align="center">
 
-![Profile Banner](/header.jpg)
+![Profile Banner](https://via.placeholder.com/1200x300/1a1a2e/ffffff?text=Digital+Polymat+%7C+Founder+%7C+Full+Stack+Engineer)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mriridescent--digitalpolymat.netlify.app-blue?style=for-the-badge&logo=netlify)](https://mriridescent-digitalpolymat.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mriridescent-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mriridescent)
-[![Email](https://img.shields.io/badge/Email-mriridescent%40yahoo.com-D14836?style=for-the-badge&logo=gmail)](mailto:mriridescent@yahoo.com)
+[![AI-Powered Portfolio](https://img.shields.io/badge/🤖_AI_Portfolio-digitalpolymat.vercel.app-00D4FF?style=for-the-badge&logo=vercel)](https://digitalpolymat.vercel.app)
+[![Cisco Certified](https://img.shields.io/badge/🛡️_Cisco_Certified-CyberTM_2024-1BA0D7?style=for-the-badge&logo=cisco)](https://digitalpolymat.vercel.app/credentials)
+[![Next.js 15](https://img.shields.io/badge/⚡_Next.js_15-AI_Enhanced-000000?style=for-the-badge&logo=next.js)](https://nextjs.org)
+[![TypeScript](https://img.shields.io/badge/🔷_TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mriridescent)
+[![Email](https://img.shields.io/badge/Email-Professional_Inquiries-D14836?style=for-the-badge&logo=gmail)](mailto:mriridescent@yahoo.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Technical_Projects-181717?style=for-the-badge&logo=github)](https://github.com/MrIridescent)
 
 </div>
 
