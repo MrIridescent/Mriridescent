@@ -43,8 +43,8 @@
 
 ![Profile Banner](https://via.placeholder.com/1200x300/1a1a2e/ffffff?text=Digital+Polymat+%7C+Founder+%7C+Full+Stack+Engineer)
 
-[![AI-Powered Portfolio](https://img.shields.io/badge/🤖_AI_Portfolio-digitalpolymat.vercel.app-00D4FF?style=for-the-badge&logo=vercel)](https://digitalpolymat.vercel.app)
-[![Cisco Certified](https://img.shields.io/badge/🛡️_Cisco_Certified-CyberTM_2024-1BA0D7?style=for-the-badge&logo=cisco)](https://digitalpolymat.vercel.app/credentials)
+[![AI-Powered Portfolio](https://img.shields.io/badge/🤖_AI_Portfolio-https://mriridescent-digitalpolymat.netlify.app/-00D4FF?style=for-the-badge&logo=vercel)](https://mriridescent-digitalpolymat.netlify.app/)
+[![Cisco Certified](https://img.shields.io/badge/🛡️_Cisco_Certified-CyberTM_2024-1BA0D7?style=for-the-badge&logo=cisco)](https://mriridescent-digitalpolymat.netlify.app/)
 [![Next.js 15](https://img.shields.io/badge/⚡_Next.js_15-AI_Enhanced-000000?style=for-the-badge&logo=next.js)](https://nextjs.org)
 [![TypeScript](https://img.shields.io/badge/🔷_TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org)
 
